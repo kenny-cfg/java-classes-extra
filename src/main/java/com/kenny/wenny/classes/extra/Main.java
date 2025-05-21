@@ -13,6 +13,6 @@ public class Main {
     }
 
     public static void runGame(Game game) {
-        game.pooBum();
+        game.runGame();
     }
 }
